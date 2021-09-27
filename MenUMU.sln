@@ -1,26 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30503.244
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MenUMU", "\\Quantum\dfs\Desktops\tyler.rentz\Desktop\MenUMU\MenUMU\", "{74DB8F08-1BA5-4781-8155-152B25C92377}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MenUMU", "MenUMU\", "{EB672BDE-06AD-460B-8613-822A884D792D}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_57832"
-		Debug.AspNetCompiler.PhysicalPath = "\\Quantum\dfs\Desktops\tyler.rentz\Desktop\MenUMU\MenUMU\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57832\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53769"
+		Debug.AspNetCompiler.PhysicalPath = "MenUMU\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53769\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_57832"
-		Release.AspNetCompiler.PhysicalPath = "\\Quantum\dfs\Desktops\tyler.rentz\Desktop\MenUMU\MenUMU\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57832\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53769"
+		Release.AspNetCompiler.PhysicalPath = "MenUMU\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53769\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "57832"
+		VWDPort = "53769"
+		SlnRelativePath = "MenUMU\"
+		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
 Global
@@ -28,13 +30,13 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74DB8F08-1BA5-4781-8155-152B25C92377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74DB8F08-1BA5-4781-8155-152B25C92377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB672BDE-06AD-460B-8613-822A884D792D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB672BDE-06AD-460B-8613-822A884D792D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9C394283-89A2-4BBD-A711-5D3448643A45}
+		SolutionGuid = {3C7B185C-C575-49A4-8762-210190FEE634}
 	EndGlobalSection
 EndGlobal

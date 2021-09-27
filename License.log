@@ -1,0 +1,50 @@
+    ======  ======
+    Time:9/27/2021 12:14:59 PM
+    Title: Initiate log
+    Message: 
+    Time:9/27/2021 12:14:59 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:9/27/2021 12:14:59 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:9/27/2021 12:14:59 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:9/27/2021 12:14:59 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:9/27/2021 12:14:59 PM
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Warning: Orchestrator.LoadPackages() : Telerik.TestStudio.Load.LoadPkg implements ITestStudioPkg but doesn't support VSTS SKU, so not added!
+    Warning: Orchestrator.LoadPackages() : Telerik.TestStudio.Manual.ManualPkg implements ITestStudioPkg but doesn't support VSTS SKU, so not added!
+    Uncategorized: Orchestrator.LoadPackages() : Telerik.TestStudio.ResponsiveWeb.ResponsiveWebPkg implements ITestStudioPkg and was added as a package.
+    Uncategorized: Orchestrator.LoadPackages() : Telerik.TestStudio.Web.WebPkg implements ITestStudioPkg and was added as a package.
+    Uncategorized: Orchestrator.LoadPackages() : Telerik.TestStudio.Wpf.WpfPkg implements ITestStudioPkg and was added as a package.
+    TestStudio: Loader.LoadTranslatorGroups() : ------- Function Start -------
+    TestStudio: Loader.LoadTranslatorGroups() : ------- Function End -------
+    Recording: RecorderHostService constructor : Host endpoint: net.pipe://localhost/Instance/58160/DesignCanvas/22364
+    Entering constructor for: Telerik.CommonPackage.VSPackage
+    Entering Initialize() of: Telerik.CommonPackage.VSPackage
+    TestStudio: Manager.GetDialogMatchProvider() : The dialog matches assembly 'Telerik.TestStudio.DialogMatches.dll' with version '2021.1.616.0' loaded successfully.
+    TestStudio: Manager.GetDialogMatchProvider() : The dialog matches assembly 'Telerik.TestStudio.DialogMatches.dll' with version '2021.1.616.0' loaded successfully.
+    TestStudio: Manager.GetDialogMatchProvider() : The dialog matches assembly 'Telerik.TestStudio.DialogMatches.dll' with version '2021.1.616.0' loaded successfully.
+    TestStudio: Loader.IndexLoadedSerializationTypes() : Warning: Assembly Microsoft.TeamFoundation.Client, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a types are loaded partialy.
+    TestStudio: Loader.IndexLoadedSerializationTypes() : Warning: Assembly Microsoft.TeamFoundation.WorkItemTracking.Client, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a types are loaded partialy.
+    TestStudio: Loader.IndexLoadedSerializationTypes() : Warning: Assembly Microsoft.TeamFoundation.WorkItemTracking.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a types are loaded partialy.
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_1723718190" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_1296492381" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_-1930362981" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
